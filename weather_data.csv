@@ -1,0 +1,15 @@
+Condition,Play,City,Temperature,Humidity,Date
+Rainy,Yes,Hyderbad,30,60,03-01-2025
+Sunny,Yes,Hyderbad,35,40,06-01-2025
+Overcast,Yes,Hyderbad,25,67,14-01-2025
+Overcast,Yes,Hyderbad,45,58,24-01-2025
+Sunny,No,Hyderbad,42,48,25-01-2025
+Rainy,Yes,Vijayawada,30,86,03-02-2025
+Sunny,Yes,Vijayawada,47,57,07-02-2025
+Overcast,Yes,Vijayawada,26,74,12-02-2025
+Rainy,No,Vijayawada,36,36,15-02-2025
+Sunny,No,Vijayawada,47,95,22-02-2025
+Sunny,Yes,Banglore,29,65,27-02-2025
+Rainy,No,Banglore,37,57,03-03-2025
+Overcast,Yes,Banglore,39,67,25-03-2025
+Overcast,Yes,Banglore,28,85,29-03-2025
